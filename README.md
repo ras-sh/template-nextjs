@@ -39,7 +39,7 @@ This template is configured with ras.sh defaults. To customize for your own proj
    - `title` - Your site title
    - `description` - Your site description
 
-3. **public/site.webmanifest:2-3** - Update PWA manifest:
+3. **app/manifest.ts:2-3** - Update PWA manifest:
    - `name` - Your app name
    - `short_name` - Your app short name
 
