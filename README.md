@@ -8,7 +8,6 @@
 - **Turbopack** - Next-generation bundler
 - **TypeScript** - End-to-end type safety
 - **Tailwind CSS v4** + **@ras-sh/ui** - Modern styling and components
-- **Cloudflare Workers** - Edge deployment ready
 
 ## Quick Start
 
@@ -21,7 +20,7 @@ pnpm dev
 
 1. Build pages in `app/` with Server Components and SSR
 2. Add components in `app/components/`
-3. Update `package.json`, `wrangler.jsonc`, and branding assets
+3. Update `package.json` and branding assets
 
 ## Scripts
 
@@ -30,8 +29,6 @@ pnpm dev
 | `pnpm dev` | Start development server (port 3000) |
 | `pnpm build` | Build for production |
 | `pnpm preview` | Preview production build |
-| `pnpm deploy` | Deploy to Cloudflare Workers |
-| `pnpm cf-typegen` | Generate Cloudflare Workers types |
 | `pnpm check-types` | Run TypeScript type checking |
 | `pnpm check` | Run linter checks |
 | `pnpm fix` | Auto-fix linting issues |
@@ -44,10 +41,6 @@ app/
 ├── layout.tsx      # Root layout and metadata
 └── globals.css     # Global styles
 ```
-
-## Deployment
-
-`pnpm deploy` to Cloudflare Workers
 
 ## License
 
