@@ -31,20 +31,20 @@
   },
   "dependencies": {
     "@ras-sh/ui": "^0.0.3",
-    "next": "^15.5.5",
+    "next": "^15.5.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.6",
     "@ras-sh/typescript-config": "^0.0.2",
-    "@tailwindcss/postcss": "^4.1.14",
-    "@types/node": "^24.7.2",
+    "@tailwindcss/postcss": "^4.1.15",
+    "@types/node": "^24.9.0",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "lefthook": "^1.13.6",
-    "tailwindcss": "^4.1.14",
+    "tailwindcss": "^4.1.15",
     "typescript": "^5.9.3",
-    "ultracite": "5.6.2"
+    "ultracite": "5.6.4"
   }
 }
