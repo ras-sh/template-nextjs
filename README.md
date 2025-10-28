@@ -1,10 +1,10 @@
 # @ras-sh/template-nextjs
 
-▲ Full-stack template with Next.js 15. Includes App Router, SSR, and modern tooling.
+▲ Full-stack template with Next.js 16. Includes App Router, SSR, and modern tooling.
 
 ## Features
 
-- **[Next.js 15](https://nextjs.org)** - React framework with App Router
+- **[Next.js 16](https://nextjs.org)** - React framework with App Router
 - **Turbopack** - Next-generation bundler
 - **TypeScript** - End-to-end type safety
 - **Tailwind CSS v4** + **@ras-sh/ui** - Modern styling and components
